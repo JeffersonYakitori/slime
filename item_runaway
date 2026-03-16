@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align:center;">escaping</h>
+<h2 style="text-align:center;"> Come one, you just buffed yourself with a potion.</h2>
+<h2 style="text-align:center;"> <img src="jotaro_running_away.jpg" width="300" height="300"> </h2>
+<section>
+<p style="text-align:center;"> Go back and make use of your potion. </p>  
+	<h3 style="text-align:center;"> <a href="turn_2_item.html">Go Back</h>
+
+</body>
+</html>
